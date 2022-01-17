@@ -1,0 +1,15 @@
+{
+  "name": "curso-spa-js-vanilla",
+  "version": "1.0.0",
+  "description": "Single Page Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "spa"
+  ],
+  "author": "Daniel Gonzalez <Daniel_glez94@hotmail.com>",
+  "license": "MIT"
+}
